@@ -1,0 +1,54 @@
+﻿preguntas;variables
+Edad;edad
+Zona Rural o Urbana /Vive fuera o dentro de la ciudad;zona
+Genero [Femenino,Masculino, Prefiero no especificar];sex
+Trabajas Si/No;trabaja
+Que carrera estudias?;carrera
+En que año de la carrera estás? [1er,2do,3er,4to,5to+];annio_carrera
+Te consideras autodidacta Si/No;autodidacta
+Cientificos;temas_interes_cie
+Tecnologicos;temas_interes_tec
+Matematicos;temas_interes_mate
+Literarios;temas_interes_lit
+ Consideras que el tiempo que dispones para estudiar en muy poco? Si/No;tiempo_estudio
+Tiene buen acceso a internet? Si/No;internet
+¿Cuál es la gama de tu computadora? [Baja,Media,Alta,No tengo];gama_pc
+¿Crees que tienes suficientes habilidades de programación para desarrollar aplicaciones simples? [Nula, baja, media, alta];habilidad_progra
+Con cuales de los siguientes lenguajes de programación has desarrollado software? [Python, Javascript, GO, C++, PHP];lengua_progra
+Fisica cuantica;conocimento_cat_fc
+Arquitectura de computadoras;conocimiento_cat_arq
+Programacion;conocimiento_cat_pro
+Diseño de compiladores;conocimiento_cat_dis
+Matematicas;conocimiento_cat_mat
+¿Qué tan informado te sientes sobre los últimos avances científicos y tecnológicos? [1-10];avance_cientifico
+¿Crees que la información científica está disponible y accesible para la población en general? SI/NO;info_disponible_cientifico
+¿Has participado alguna vez en eventos de divulgación científica, como charlas, conferencias o ferias? Si/NO;evento_divulg
+En caso de si: ¿En que ámbitos se alinean las charlas y conferencias a las cuales has asistido? [multiple seleccion: Matematicas, Fisicas, Tecnologicas, Literarias, Otras];ambito_charla
+¿Crees que las infografías pueden contribuir a una mayor divulgación científica de temas disruptivos? Si/No;infografia_divulg
+¿Cómo clasificarías el nivel de divulgación científica en la sociedad actual? [Opciones: alta, media, bajo, no existe];nivel_divulg
+¿Crees que la falta de interés del público es la principal causa de la poca divulgación científica? SI/NO;interes_divulg
+¿Crees que la falta de presupuesto es la principal causa de la poca divulgación científica? SI/NO;presupuesto_divulg
+¿Crees que las universidades deberían incluir más contenido científico en su currículo? Si/NO;contenido_cientifico
+¿Crees que las universidades deberían incluir más contenido profesionalizante en su currículo? Si/NO;contenido_profesional
+Según lo que consideres, ¿Cual es el grado de responsabilidad en la divulgacion cientifica de los siguientes involucrados? (Ordena de forma descendente, siendo el de mayor importancia quien se encuentre primero) [Matriz: científicos, jefe de departamento, docentes, estudiantes y público en general];responsabilidad_divulg
+Has escuchado sobre la computación cuantica? SI/NO;comp_cuantica
+En caso de si: Del 0 al 10 ¿Cuanto interes hay en la tecnología cuantica?;interes_cuantica
+En caso de si: Considera que hay información necesaria para aprender sobre estas tecnologías Si/NO;info_cuantica
+¿Has visto alguna infografía sobre computación cuántica antes de esta encuesta? SI/No;infografia_anterior_cuantica
+¿Crees que las infografías son más efectivas que otros medios para aprender sobre computación cuántica? SI/NO;infografia_efectiva
+¿Cree que se debería invertir más en la investigación y el desarrollo de la computación cuántica? SI/NO/NO SE;inversion_cuantica
+¿Cree que la computación cuántica tiene el potencial de cambiar el mundo de manera significativa? SI/NO/NO SE;cambio_mundo_cuantica
+¿Cree que la computación cuántica tendrá un impacto significativo en la industria y la tecnología en el futuro? SI/NO/NO SE;impacto_industria_cuantica
+¿Crees que los docentes de la universidad incentivan la investigacion cientfica y la innovación tecnologica? Si/NO;docentes_incentivo
+¿Crees que en la UNAH no se incentiva la investigación cientifica ni la innovación tecnologica? SI/NO;unah_incentivo
+Consideras que hay una conexión sobre la computación cuántica respecto a las temáticas de las clases que has cursado? SI/NO;conexion_tematica
+En caso de si: Cuales son esas clases? [Arquitectura de computadores, Diseño Digital, Inteligencia Artificial, otro];clases_conexion
+¿Qué tan interesado estaría en participar en una investigación relacionada con un tema disruptivo en su campo de estudio? [nada interesado a muy interesado];interes_tema_disruptivo
+¿Consideraría importante tener la oportunidad de participar en investigaciones sobre temas disruptivos en su carrera académica? si/no;participar_investigacion_disruptiva
+Big Data;temas_disruptivo_bd
+IA;temas_disruptivo_ia
+Ciberseguridad;temas_disruptivo_cib
+Blockchain;temas_disruptivo_bc
+Realidad virtual y aumentada;temas_disruptivo
+Nanotecnologia;temas_disruptivo_nano
+Considera que hay información necesaria para aprender sobre estas tecnologías Si/NO/NO SE;info_nec
