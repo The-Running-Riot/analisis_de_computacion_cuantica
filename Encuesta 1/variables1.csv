@@ -1,0 +1,58 @@
+﻿preguntas;variables
+En que momento de la charla está llenando la encuesta? [Antes de la charla, Despues de la charla];post_charla
+Edad [0-17, 18-30,31-40,41-50,51+];edad
+Zona Rural o Urbana /Vive fuera o dentro de la ciudad;zona
+Genero [Femenino,Masculino, Prefiero no especificar];sex
+Trabajas Si/No;trabaja
+Que carrera estudias?;carrera
+En que año de la carrera estás? [1er,2do,3er,4to,5to+];annio_carrera
+Te consideras autodidacta Si/No;autodidacta
+Cientificos;temas_interes_cie
+Tecnologicos;temas_interes_tec
+Matematicos;temas_interes_mate
+Literarios;temas_interes_lit
+ Consideras que el tiempo que dispones para estudiar en muy poco? Si/No;tiempo_estudio
+Tiene buen acceso a internet? Si/No;internet
+¿Cuál es la gama de tu computadora? [Baja,Media,Alta,No tengo];gama_pc
+¿Crees que tienes suficientes habilidades de programación para desarrollar aplicaciones simples? [Nula, baja, media, alta];habilidad_progra
+Con cuales de los siguientes lenguajes de programación has desarrollado un proyecto? [Python, Javascript, GO, C++, PHP];lengua_progra
+Fisica cuantica;conocimento_cat_fc
+Arquitectura de computadoras;conocimento_cat_arq
+Programacion;conocimento_cat_pro
+Diseño de compiladores;conocimento_cat_di
+Matematicas;conocimento_cat_mat
+¿Qué tan informado te sientes sobre los últimos avances científicos y tecnológicos? [1-10];avance_cientifico
+¿Crees que la información científica está disponible y accesible para la población en general? SI/NO;info_disponible_cientifico
+¿Has participado alguna vez en eventos de divulgación científica, como charlas, conferencias o ferias? Si/NO;evento_divulg
+¿En que ámbitos se alinean las charlas y conferencias a las cuales has asistido? [multiple seleccion: Matematicas, Fisicas, Tecnologicas, Literarias, Otras];ambito_charla
+¿Cómo clasificarías el nivel de divulgación científica en la sociedad actual? [Opciones: alta, media, bajo, no existe];nivel_divulg
+¿Crees que la falta de interés del público es la principal causa de la poca divulgación científica? SI/NO;interes_divulg
+¿Crees que la falta de presupuesto es la principal causa de la poca divulgación científica? SI/NO;presupuesto_divulg
+¿Crees que las universidades deberían incluir más contenido científico en su currículo? Si/NO;contenido_cientifico
+¿Crees que las universidades deberían incluir más contenido profesionalizante en su currículo? Si/NO;contenido_profesional
+Según lo que consideres, ¿Cual es el grado de responsabilidad en la divulgacion cientifica de los siguientes involucrados? (Ordena de forma descendente, siendo el de mayor importancia quien se encuentre primero) [Matriz: científicos, jefe de departamento, docentes, estudiantes y público en general];responsabilidad_divulg
+¿Has escuchado sobre la computación cuántica?;escu_cuantica
+¿Cuanto nivel tienes sobre la tecnología cuantica?[0 = No se nada. 1 = poco, 2 = Neutral, 3 = alta ];nivel_cuantica
+¿Qué tanto conocimiento consideras tener sobre la computación cuántica?;conocimiento_cuantica
+ Considera que hay información necesaria para aprender sobre estas tecnologías Si/NO/NO SE;info_cuantica
+¿Cree que se debería invertir más en la investigación y el desarrollo de la computación cuántica? SI/NO/NO SE;inversion_cuantica
+¿Cree que la computación cuántica tiene el potencial de cambiar el mundo de manera significativa? SI/NO/NO SE;cambio_mundo_cuantica
+¿Cree que la computación cuántica tendrá un impacto significativo en la industria y la tecnología en el futuro? SI/NO/NO SE;impacto_industria_cuantica
+¿Crees que los docentes de la universidad incentivan la investigacion cientifica y la innovación tecnologica? Si/NO;docentes_incentivo
+¿Crees que en la UNAH no se incentiva la investigación cientifica ni la innovación tecnologica? SI/NO;unah_incentivo
+¿Qué clases consideras que tienen una conexión con la computación cuantica?[Arquitectura de computadores, Diseño Digital, Inteligencia Artificial, otro, Ninguna clase];conexion_tematica
+¿Qué tan interesado estaría en participar en una investigación relacionada con un tema disruptivo en su campo de estudio? [nada interesado a muy interesado];interes_tema_disruptivo
+¿Consideraría importante tener la oportunidad de participar en investigaciones sobre temas disruptivos en su carrera académica? si/no;participar_investigacion_disruptiva
+Big Data;temas_disruptivo_bd
+IA;temas_disruptivo_ia
+Ciberseguridad;temas_disruptivo_cib
+Blockchain;temas_disruptivo_bc
+Realidad virtual y aumentada;temas_disruptivo_va
+Nanotecnologia;temas_disruptivo_nano
+¿A que cursos recomendarías esta charla sobre computación cuántica? [SO2, BD2, ARQUITECTURA DE COMPUTADORES, DISEÑO DIGITAL, COMPILADORES, OTROS...];segmento_interes_charla
+Te gustaria seguir aprendiendo sobre computación cuantica? SI/NO;curso_cuantica
+¿Te inscribirias en un curso sobre cuantica más especializado? [No, Solo si es gratis, Pagaria solo si es barato, Pagaria sin importar el precio];charla_informativa
+¿La charla sobre computación cuántica fue informativa y comprensible para ti? Si/NO;cursos_recomendaciones
+¿Qué parte de la charla te pareció más interesante o útil? [Fundamentos computación clasica, Fundamentos Computacón Cuantica, Aplicaciones de la Cuantica, Ejemplos y Soluciones];charla_util
+¿Crees que la charla te dio una idea clara de las aplicaciones prácticas de la computación cuántica? SI/NO;idea_aplicaciones_charla
+¿Cómo clasificarías la calidad general de la charla? [1-5 con estrellas];calificacion_charla
